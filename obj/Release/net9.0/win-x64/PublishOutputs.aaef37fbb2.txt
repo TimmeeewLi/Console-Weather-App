@@ -1,0 +1,2 @@
+C:\VSCode\C#\Weather App\publish\Weather App.pdb
+C:\VSCode\C#\Weather App\publish\Weather App.exe

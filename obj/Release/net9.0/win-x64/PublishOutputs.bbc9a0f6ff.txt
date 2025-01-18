@@ -1,0 +1,1 @@
+C:\VSCode\C#\Weather App\bin\Release\net9.0\win-x64\publish\Weather App.exe

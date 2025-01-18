@@ -1,0 +1,14 @@
+C:\VSCode\C#\Weather App\bin\Debug\net9.0\Weather App.exe
+C:\VSCode\C#\Weather App\bin\Debug\net9.0\Weather App.deps.json
+C:\VSCode\C#\Weather App\bin\Debug\net9.0\Weather App.runtimeconfig.json
+C:\VSCode\C#\Weather App\bin\Debug\net9.0\Weather App.dll
+C:\VSCode\C#\Weather App\bin\Debug\net9.0\Weather App.pdb
+C:\VSCode\C#\Weather App\obj\Debug\net9.0\Weather App.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode\C#\Weather App\obj\Debug\net9.0\Weather App.AssemblyInfoInputs.cache
+C:\VSCode\C#\Weather App\obj\Debug\net9.0\Weather App.AssemblyInfo.cs
+C:\VSCode\C#\Weather App\obj\Debug\net9.0\Weather App.csproj.CoreCompileInputs.cache
+C:\VSCode\C#\Weather App\obj\Debug\net9.0\Weather App.dll
+C:\VSCode\C#\Weather App\obj\Debug\net9.0\refint\Weather App.dll
+C:\VSCode\C#\Weather App\obj\Debug\net9.0\Weather App.pdb
+C:\VSCode\C#\Weather App\obj\Debug\net9.0\Weather App.genruntimeconfig.cache
+C:\VSCode\C#\Weather App\obj\Debug\net9.0\ref\Weather App.dll
